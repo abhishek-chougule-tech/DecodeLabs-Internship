@@ -1,5 +1,4 @@
 # Project 4: The General Knowledge Quiz
-# Module: Python Control Flow & State Management
 
 # State Management: Initialize score vault
 score = 0
